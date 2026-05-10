@@ -75,7 +75,26 @@ Focus: CTF & Open Source
 
 # 📂 Archive
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=E5D4C5&width=450&lines=Cyber+Security+Writeup;Reverse+Engineering+Notes;Networking+Documentation;Linux+Customization;Open+Source+Projects"/>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&pause=1000&color=E5D4C5&center=true&vCenter=true&width=500&lines=Cyber+Security+Writeup;Reverse+Engineering+Notes;Linux+Customization;Networking+Documentation;Dark+Aesthetic+Projects"/>
+
+<br>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2V2cHk0eXF0N2l3ZzR5a2ZqZXF4b2Q4OWVtYjN4dnhjN3B2c3I4eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="100%"/>
+
+</div>
+
+<br>
+
+```bash
+[ SYSTEM LOG ]
+> Initializing archive...
+> Loading cybersecurity notes...
+> Injecting reverse engineering files...
+> Connecting linux modules...
+> Access granted.
+```
 
 <br>
 
@@ -85,6 +104,19 @@ Focus: CTF & Open Source
 - 🐧 Linux Customization  
 - 💻 Open Source Projects  
 - 🔥 Experimental UI Design  
+- 🌙 Dark Theme Collections  
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadesCoyy&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RadesCoyy&theme=tokyonight"/>
+
+</div>
 
 </td>
 
@@ -92,11 +124,11 @@ Focus: CTF & Open Source
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadesCoyy&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://i.pinimg.com/originals/2b/44/8d/2b448d8f6c5f5f4f2fd0f7f5d9a97b8d.gif" width="100%"/>
 
-<br>
+<br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RadesCoyy&theme=tokyonight"/>
+<img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="100%"/>
 
 </div>
 
@@ -120,37 +152,13 @@ Focus: CTF & Open Source
 
 ---
 
-# 📊 Github Statistics
+# Github Stats
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=RadesCoyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RadesCoyy&theme=tokyonight&hide_border=true&background=00000000"/>
-
-<br><br>
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RadesCoyy&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🌌 Activity Graph
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RadesCoyy&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
-
-</div>
-
----
-
-# 🎵 Spotify Playing
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31wqexample&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true"/>
 
 </div>
 
