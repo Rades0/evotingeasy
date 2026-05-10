@@ -24,9 +24,7 @@ body{
     height:100vh;
 }
 
-/* ========================= */
 /* BACKGROUND */
-/* ========================= */
 
 .background{
     position:absolute;
@@ -35,8 +33,6 @@ body{
     overflow:hidden;
     z-index:-2;
 }
-
-/* animated glow */
 
 .glow{
     position:absolute;
@@ -72,7 +68,7 @@ body{
     }
 }
 
-/* moving lines */
+/* MOVING CYBER LINES */
 
 .line{
     position:absolute;
@@ -119,9 +115,7 @@ body{
     }
 }
 
-/* ========================= */
-/* NAV */
-/* ========================= */
+/* NAVBAR */
 
 .nav{
     position:absolute;
@@ -152,9 +146,7 @@ body{
     font-size:30px;
 }
 
-/* ========================= */
 /* CONTENT */
-/* ========================= */
 
 .container{
     width:100%;
@@ -165,7 +157,7 @@ body{
     flex-direction:column;
 }
 
-/* profile */
+/* PROFILE */
 
 .profile{
     width:250px;
@@ -194,7 +186,7 @@ body{
     border:8px solid #050816;
 }
 
-/* badge */
+/* BADGE */
 
 .badge{
     margin-top:30px;
@@ -216,7 +208,7 @@ body{
     box-shadow:0 0 15px #00ff66;
 }
 
-/* text */
+/* TEXT */
 
 h1{
     margin-top:40px;
@@ -234,7 +226,7 @@ p{
     font-size:18px;
 }
 
-/* buttons */
+/* BUTTONS */
 
 .buttons{
     margin-top:40px;
@@ -259,7 +251,7 @@ p{
     border:1px solid #00e5ff;
 }
 
-/* footer */
+/* FOOTER */
 
 .footer{
     position:absolute;
@@ -292,7 +284,7 @@ FUTURISTIC — SMOOTH ANIMATION — DARK MODE — PORTFOLIO —
 
 </div>
 
-<!-- NAV -->
+<!-- NAVBAR -->
 
 <div class="nav">
 
@@ -312,9 +304,7 @@ FUTURISTIC — SMOOTH ANIMATION — DARK MODE — PORTFOLIO —
 
 <div class="profile">
 
-<!-- GANTI LINK FOTO KAMU DISINI -->
-
-<img src="https://i.imgur.com/8Km9tLL.png">
+<img src="https://wallpapercave.com/wp/wp11740801.jpg">
 
 </div>
 
