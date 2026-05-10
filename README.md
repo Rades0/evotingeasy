@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6b5b52,50:b89d8c,100:e5d4c5&height=180&section=header&text=YOURNAME%20✨&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6b5b52,50:b89d8c,100:e5d4c5&height=180&section=header&text=RadesCoyy%20✨&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
 
 <br>
 
@@ -17,7 +17,7 @@
 # About Me
 
 ```yaml
-Name: Your Name
+Name: Rades Cihuy
 From: Indonesia
 Role: Cyber Security & Developer
 Learning: Linux, Web, Networking
