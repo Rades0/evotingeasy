@@ -1,293 +1,229 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=CYBERPUNK%20E-VOTING&fontAlign=50&fontAlignY=38&color=0:020617,20:0F172A,40:111827,60:00E5FF,80:7F5AF0,100:00F5D4&fontColor=ffffff&fontSize=50&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=E-VOTING%20SYSTEM&fontAlign=50&fontAlignY=42&fontSize=55&animation=fadeIn&fontColor=ffffff&color=0:050816,25:0F172A,50:111827,75:1E293B,100:00E5FF"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=⚡+Modern+Cyberpunk+E-Voting+System;🌌+Dark+Futuristic+Laravel+Application;✨+Smooth+Animation+%26+Premium+UI+Experience" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=⚡+DARK+CYBERPUNK+E-VOTING+SYSTEM+⚡;🚀+MODERN+•+SECURE+•+REALTIME+🚀;🌌+AESTHETIC+GITHUB+README+🌌"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql,tailwind,js,vite,git,vscode" />
+<img src="https://img.shields.io/github/stars/USERNAME/REPOSITORY?style=for-the-badge&logo=github&color=00E5FF&labelColor=0D1117"/>
+<img src="https://img.shields.io/github/forks/USERNAME/REPOSITORY?style=for-the-badge&logo=github&color=7C3AED&labelColor=0D1117"/>
+<img src="https://img.shields.io/github/watchers/USERNAME/REPOSITORY?style=for-the-badge&logo=github&color=EC4899&labelColor=0D1117"/>
+<img src="https://img.shields.io/github/license/USERNAME/REPOSITORY?style=for-the-badge&color=00ff99&labelColor=0D1117"/>
+<img src="https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=blueviolet"/>
 
 <br><br>
 
-![Laravel](https://img.shields.io/badge/Laravel-050816?style=for-the-badge&logo=laravel&logoColor=FF4B2B)
-![PHP](https://img.shields.io/badge/PHP-050816?style=for-the-badge&logo=php&logoColor=AEB2FF)
-![MySQL](https://img.shields.io/badge/MySQL-050816?style=for-the-badge&logo=mysql&logoColor=00E5FF)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-050816?style=for-the-badge&logo=tailwind-css&logoColor=00E5FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-050816?style=for-the-badge&logo=javascript&logoColor=FFE600)
-
-<br>
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00E5FF?style=for-the-badge&labelColor=111827">
-<img src="https://img.shields.io/badge/UI-CYBERPUNK-7F5AF0?style=for-the-badge&labelColor=111827">
-<img src="https://img.shields.io/badge/ANIMATION-SMOOTH-00FFB3?style=for-the-badge&labelColor=111827">
+<img src="https://img.shields.io/badge/CYBERPUNK-DARK%20STYLE-00E5FF?style=for-the-badge&logo=ghost&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/LARAVEL-10-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/MYSQL-DATABASE-00758F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/BOOTSTRAP-UI-7C3AED?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-FRONTEND-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117"/>
 
 </div>
 
 ---
 
-# 🌌 About Project
+# 🌌 ABOUT PROJECT
 
-> **Cyberpunk E-Voting** adalah aplikasi voting modern berbasis Laravel dengan tampilan dark futuristic yang elegan, nyaman di mata, dan dipadukan dengan smooth animation modern ala dashboard cyberpunk premium.
-
-Dirancang untuk memberikan pengalaman voting digital yang cepat, aman, responsif, dan futuristik menggunakan desain neon glow serta efek glassmorphism modern.
-
----
-
-# ⚡ Main Features
+<div align="center">
 
 ```diff
-+ Futuristic Admin Dashboard
-+ Secure Participant Authentication
-+ Online Voting System
-+ Candidate Management
-+ Live Voting Result Monitoring
-+ Responsive Mobile Interface
-+ Cyberpunk Dark Theme
-+ Smooth Transition Animation
-+ Neon Glow UI Effects
-+ Interactive Dashboard Card
-+ Animated Sidebar Navigation
-+ Dynamic Statistic Counter
-+ Real-time Data Update
-+ Modern Toast Notification
-+ Scroll Reveal Animation
-+ Glassmorphism Design
++ Dark Aesthetic E-Voting System
++ Cyberpunk UI Interface
++ Modern Realtime Voting
++ Secure Authentication System
++ Responsive Dashboard Design
 ```
 
----
-
-# 🎨 UI / UX Features
-
-| UI Element | Description |
-|---|---|
-| 🌑 Dark Interface | Comfortable futuristic dark theme |
-| ✨ Neon Glow | Cyan & purple glowing effect |
-| 🚀 Smooth Animation | Elegant page transitions |
-| 🌌 Glassmorphism | Modern transparent blur design |
-| ⚡ Interactive Hover | Smooth hover interaction |
-| 📱 Responsive Layout | Mobile & desktop optimized |
+</div>
 
 ---
 
-# 🎞 Animation Effects
+# 🎥 LIVE CYBERPUNK GIF
 
-```yaml
-✓ Fade In Animation
-✓ Smooth Hover Transition
-✓ Floating Card Effect
-✓ Neon Pulse Glow
-✓ Animated Gradient Border
-✓ Ripple Click Effect
-✓ Sidebar Slide Animation
-✓ Loading Screen Animation
-✓ Scroll Reveal Effect
-✓ Mouse Glow Interaction
-✓ Smooth Modal Transition
-✓ Dynamic Counter Animation
-```
+<div align="center">
+
+<img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRzNzE1NnFxbmZ6d2xwbjlwdXJwMXE0dHZ5bHB4YTI1N2N0eXZ5eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+
+</div>
 
 ---
 
-# 🛠 Tech Stack
+# 🖤 DARK AESTHETIC PREVIEW
 
-| Technology | Description |
-|---|---|
-| Laravel | Powerful Backend Framework |
-| PHP | Server-side Language |
-| MySQL | Database Management |
-| Tailwind CSS | Modern Utility-first CSS |
-| JavaScript | Interactive Frontend Logic |
-| Vite | Fast Frontend Builder |
+<div align="center">
+
+<img width="100%" src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1800&auto=format&fit=crop"/>
+
+<br><br>
+
+<img width="100%" src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1800&auto=format&fit=crop"/>
+
+<br><br>
+
+<img width="100%" src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1800&auto=format&fit=crop"/>
+
+</div>
 
 ---
 
-# ⚙️ Installation
+# 🚀 FEATURES
+
+<div align="center">
+
+| FEATURE | STATUS |
+|----------|---------|
+| 🔐 Authentication Login | ✅ |
+| 🧑‍💻 Admin Dashboard | ✅ |
+| 🗳️ Online Voting | ✅ |
+| 📊 Live Statistics | ✅ |
+| 📱 Responsive UI | ✅ |
+| 🌙 Dark Mode Design | ✅ |
+| ⚡ Fast Performance | ✅ |
+| 🔒 Secure Database | ✅ |
+
+</div>
+
+---
+
+# ⚙️ TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,html,css,js,bootstrap,github,git,vscode"/>
+
+</div>
+
+---
+
+# 📂 PROJECT STRUCTURE
 
 ```bash
-# Clone Repository
-git clone https://github.com/username/e-voting.git
-
-# Open Project Folder
-cd e-voting
-
-# Install Dependency
-composer install
-
-# Copy ENV File
-cp .env.example .env
-
-# Generate Laravel Key
-php artisan key:generate
-
-# Run Migration
-php artisan migrate
-
-# Start Development Server
-php artisan serve
-```
-
----
-
-# 📁 Project Structure
-
-```bash
+E-VOTING/
+│
 ├── app/
 ├── bootstrap/
 ├── config/
 ├── database/
 ├── public/
 ├── resources/
-│   ├── css/
-│   ├── js/
-│   └── views/
 ├── routes/
 ├── storage/
-└── vendor/
+├── vendor/
+└── README.md
 ```
 
 ---
 
-# 🌠 Cyberpunk Components
-
-```diff
-+ Neon Dashboard Card
-+ Animated Login Form
-+ Cyberpunk Sidebar
-+ Interactive Candidate Card
-+ Glassmorphism Modal
-+ Modern Data Table
-+ Live Statistic Widget
-+ Animated Voting Progress
-+ Responsive Navigation
-+ Dynamic User Profile
-```
-
----
-
-# 🔥 Recommended Libraries
+# 🛠️ INSTALLATION
 
 ```bash
-npm install aos
-npm install framer-motion
-npm install gsap
-npm install animejs
-npm install typed.js
+# Clone repository
+git clone https://github.com/USERNAME/REPOSITORY.git
+
+# Open project
+cd REPOSITORY
+
+# Install dependency
+composer install
+
+# Copy .env
+cp .env.example .env
+
+# Generate app key
+php artisan key:generate
+
+# Database migration
+php artisan migrate
+
+# Run localhost
+php artisan serve
 ```
 
 ---
 
-# ✨ Modern CSS Effects
+# 🗄️ DATABASE CONFIGURATION
 
-```css
-/* Neon Glow */
-box-shadow: 0 0 20px #00E5FF;
-
-/* Smooth Animation */
-transition: all 0.3s ease;
-
-/* Glassmorphism */
-backdrop-filter: blur(14px);
-
-/* Hover Floating */
-transform: translateY(-6px);
-
-/* Gradient Border */
-background: linear-gradient(
-90deg,
-#00E5FF,
-#7F5AF0,
-#00F5D4
-);
+```env
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=evoting
+DB_USERNAME=root
+DB_PASSWORD=
 ```
 
 ---
 
-# 🔐 Security Features
-
-```diff
-+ Authentication System
-+ Middleware Protection
-+ CSRF Security
-+ Session Validation
-+ Secure Voting Verification
-+ Admin Authorization
-```
-
----
-
-# 🚀 Performance Features
-
-```yaml
-✓ Optimized UI Rendering
-✓ Lightweight Animation
-✓ Fast Page Transition
-✓ Responsive Performance
-✓ Clean Code Structure
-✓ Modern Laravel Architecture
-```
-
----
-
-# 🌌 Future Development
-
-```diff
-+ AI Vote Analytics
-+ Face Recognition Login
-+ Fingerprint Authentication
-+ Real-time Notification
-+ Blockchain Voting
-+ Multi-language Support
-+ Progressive Web App
-+ Dark / Light Mode
-```
-
----
-
-# 👨‍💻 Developer
+# 📊 GITHUB STATISTICS
 
 <div align="center">
 
-# ⚡ Rades0 ⚡
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-### Cyberpunk Laravel Developer
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/>
 
-Building futuristic digital experiences with modern technologies.
+<br><br>
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=⚡+Code+The+Future;🌌+Modern+Cyberpunk+Interface;🚀+Smooth+%26+Premium+Experience" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 ---
 
-# 🌠 Visual Experience
+# 🏆 GITHUB TROPHIES
 
 <div align="center">
 
-| Style | Experience |
-|---|---|
-| Neon Glow | Futuristic |
-| Glassmorphism | Premium |
-| Smooth Motion | Elegant |
-| Dark Theme | Comfortable |
-| Animated UI | Interactive |
+<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
 
 </div>
 
 ---
 
+# 🌐 CONNECT WITH ME
+
 <div align="center">
 
-# 🌌 CYBERPUNK DIGITAL EXPERIENCE 🌌
+<a href="https://github.com/USERNAME">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:00E5FF,25:7F5AF0,50:111827,75:050816,100:000000" />
+<a href="https://instagram.com/USERNAME">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-<br>
+<a href="https://youtube.com/USERNAME">
+<img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
-### ⚡ FUTURISTIC • MODERN • SMOOTH • CYBERPUNK ⚡
+<a href="https://discord.com">
+<img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 👑 AUTHOR
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&lines=CREATED+BY+YOUR+NAME;FULLSTACK+DEVELOPER;DARK+CYBERPUNK+STYLE"/>
+
+</div>
+
+---
+
+# ⭐ SUPPORT PROJECT
+
+<div align="center">
+
+### 🌌 STAR THIS REPOSITORY IF YOU LIKE IT 🌌
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:00E5FF,50:111827,100:050816"/>
 
 </div>
