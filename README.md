@@ -1,15 +1,17 @@
 <div align="center">
 
-# ⚡ CYBER E-VOTING SYSTEM ⚡
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=E-VOTING%20SYSTEM&fontAlign=50&fontAlignY=40&color=0:0F2027,50:203A43,100:00E5FF&fontColor=ffffff&fontSize=42&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Laravel+Cyberpunk+E-Voting;Modern+Voting+Application;Secure+%26+Fast+System" />
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=E-VOTING&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Modern+Cyberpunk+E-Voting;Laravel+Based+Application;Clean+%26+Professional+Design" />
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00F7FF?style=for-the-badge&logo=mysql&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-00F7FF?style=for-the-badge&logo=tailwind-css&logoColor=black)
+<br><br>
+
+![Laravel](https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=FF4B2B)
+![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=AEB2FF)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=00E5FF)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=00E5FF)
 
 </div>
 
@@ -17,36 +19,33 @@
 
 # 🌌 About Project
 
-Cyberpunk-themed E-Voting application built using Laravel.
+Modern cyberpunk-inspired E-Voting application built using Laravel.
 
-This application allows users to:
-- Vote online
-- Manage candidates
-- View voting results
-- Access admin dashboard
+Designed with a clean futuristic interface focused on simplicity, speed, and usability.
 
 ---
 
-# ⚡ Features
+# ⚡ Main Features
 
 ```diff
 + Admin Dashboard
-+ Participant Login
-+ Online Voting
++ Participant Authentication
++ Online Voting System
 + Candidate Management
-+ Secure Authentication
-+ Modern UI
++ Voting Result Monitoring
++ Responsive Interface
 ```
 
 ---
 
-# 📸 Preview
+# 🛠 Tech Stack
 
-## Login Page
-![Preview](https://via.placeholder.com/1000x500/0d1117/00F7FF?text=Cyber+Login+Page)
-
-## Dashboard
-![Preview](https://via.placeholder.com/1000x500/0d1117/8A2BE2?text=Cyber+Dashboard)
+| Technology | Description |
+|---|---|
+| Laravel | Backend Framework |
+| PHP | Server-side Language |
+| MySQL | Database Management |
+| Tailwind CSS | Frontend Styling |
 
 ---
 
@@ -62,42 +61,30 @@ php artisan serve
 
 ---
 
-# 🛠 Tech Stack
-
-| Technology | Usage |
-|---|---|
-| Laravel | Backend |
-| PHP | Server Side |
-| MySQL | Database |
-| Tailwind CSS | UI Design |
-| Blade | Frontend Template |
-
----
-
-# 🧠 Project Structure
+# 📁 Project Structure
 
 ```bash
 app/
-routes/
 resources/
-public/
+routes/
 database/
+public/
 ```
 
 ---
 
 # 👨‍💻 Developer
 
-## Rades0 ⚡
+### Rades0
 
-Cyberpunk Web Developer
+Cyberpunk Laravel Developer ⚡
 
 ---
 
 <div align="center">
 
-# 🌌 THANKS FOR VISITING 🌌
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00E5FF,100:0F2027" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
+### ⚡ CLEAN • MODERN • CYBERPUNK ⚡
 
 </div>
