@@ -33,8 +33,8 @@
 <br>
 
 ```yaml
-Name: Rades Cihuy
-From: Indonesia
+Name: Rades astria dewangga
+Nim: 202430040
 Role: Cyber Security & Developer
 Learning: Linux, Web, Networking
 Focus: CTF & Open Source
@@ -135,6 +135,106 @@ Focus: CTF & Open Source
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=E-Voting+System+Preview;Cyberpunk+Interface;Modern+Voting+Dashboard;Secure+Online+Voting"/>
+
+<br>
+
+<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100%"/>
+
+</div>
+
+---
+
+<h1 align="center">📸 System Preview</h1>
+
+---
+
+## 🔐 Login Page
+Halaman login untuk admin dan user sebelum masuk ke dalam sistem E-Voting.
+
+<p align="center">
+  <img src="./picts/login.png" width="85%">
+</p>
+
+<br>
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=E5D4C5&center=true&vCenter=true&width=400&lines=Secure+Authentication+System"/>
+</div>
+
+---
+
+## 📝 Register Page
+Halaman registrasi akun baru agar pengguna dapat mengakses sistem voting online.
+
+<p align="center">
+  <img src="./picts/register.png" width="85%">
+</p>
+
+---
+
+## 📊 Admin Dashboard
+Dashboard admin yang menampilkan informasi utama sistem seperti data voting, kandidat, dan statistik pengguna.
+
+<p align="center">
+  <img src="./picts/dashboard admin.png" width="85%">
+</p>
+
+---
+
+## 👥 Participant Management
+Halaman admin untuk menampilkan peserta atau user yang akan mengikuti proses voting.
+
+<p align="center">
+  <img src="./picts/admin1.png" width="85%">
+</p>
+
+---
+
+## 🗳 Candidate Management
+Halaman admin untuk mengelola dan menampilkan kandidat yang akan dipilih dalam proses voting.
+
+<p align="center">
+  <img src="./picts/kandidat admin.png" width="85%">
+</p>
+
+---
+
+## 👤 User Candidate View
+Halaman user yang menampilkan daftar kandidat yang tersedia untuk dipilih pada sistem E-Voting.
+
+<p align="center">
+  <img src="./picts/user.png" width="85%">
+</p>
+
+---
+
+## ✅ Voting Status
+Halaman yang menampilkan bahwa pengguna telah berhasil melakukan voting.
+
+<p align="center">
+  <img src="./picts/voting.png" width="85%">
+</p>
+
+---
+
+## 📈 Voting Result
+Halaman hasil voting yang menampilkan perolehan suara dan hasil akhir pemilihan.
+
+<p align="center">
+  <img src="./picts/result.png" width="85%">
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%"/>
+
+</div>
 
 ---
 
